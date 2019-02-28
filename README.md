@@ -1,0 +1,2 @@
+# Individual Functionality Tests
+This is a collection of Particle projects that were largely copied and pasted from Particle community examples and, in some cases, modified to work on a Particle Electron. Documentation is currently very poor for the subdirectories but there may be useful code chunks here so I'm posting this in the hopes that it could save someone a little time. I'll work to clean these up as much as possible!
